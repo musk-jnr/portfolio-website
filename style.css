@@ -82,7 +82,7 @@ footer p {
 }
 
 .hero {
-    background-image: url('tech.jpg');
+    background-image: url('images/tech.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -338,7 +338,7 @@ footer p {
     scroll-behavior: smooth;
     font-family: sans-serif;
 }
-
+/* 
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -414,11 +414,11 @@ footer p {
 }
 
 .social-icons a:hover {
-    color: #4267B2; /* Hover color */
-}
-
+    color: #4267B2; Hover color */
+/* } */
+/* 
 .hero {
-    background-image: url('tech.jpg');
+    background-image: url('images/tech.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -580,8 +580,8 @@ footer p {
     font-size: 1.5em;
 }
 
-/* Responsive Styles */
-@media (max-width: 768px) {
+Responsive Styles */
+/* @media (max-width: 768px) {
     header {
         flex-direction: column;
         padding: 10px;
@@ -670,4 +670,4 @@ footer p {
     .contact form button {
         font-size: 0.9em;
     }
-}
+} */
